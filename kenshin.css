@@ -1,0 +1,98 @@
+/**Configurações do kenshin**/
+#menu-kenshin{
+  background: #000;
+  opacity: .6;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  display: none;
+}
+
+.kenshin-box{
+ background: #FFF;
+ width: 60%;
+ height: 150px;
+ position: absolute;
+ left:50%;
+ top:50%;
+ margin-left:-30%;
+ margin-top:-50px;
+}
+
+.kenshin-conteudo{
+  color: #ff0000;
+}
+
+/**Configurações do ryoma**/
+#menu-ryoma{
+  background: #000;
+  opacity: .6;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  display: none;
+}
+
+.ryoma-box{
+ background: #FFF;
+ width: 60%;
+ height: 150px;
+ position: absolute;
+ left:50%;
+ top:50%;
+ margin-left:-30%;
+ margin-top:-50px;
+}
+
+.ryoma-conteudo{
+  
+}
+
+/**Configurações do alek**/
+#menu-alek{
+  background: #000;
+  opacity: .6;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  display: none;
+}
+
+.alek-box{
+ background: #FFF;
+ width: 60%;
+ height: 150px;
+ position: absolute;
+ left:50%;
+ top:50%;
+ margin-left:-30%;
+ margin-top:-50px;
+}
+
+.alek-conteudo{
+  
+}
+
+/**Botão de fechar e suas caracteristicas**/ 
+.fechar{
+ padding: 1px 3px; 
+ border: 1px solid #ccc;
+ position: absolute;
+ right: 2px;
+ top: 1px;
+ border-radius: 6px;
+ color: #00ff;
+ cursor: pointer;
+} 
+
+.fechar:hover{
+  color: #ff0000;
+  border-color: #666;
+  
+}
